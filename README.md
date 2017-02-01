@@ -6,4 +6,4 @@ In this repository there are the 2 practical assignments of this course in the l
 Credits:
 * [Mário Fernandes](https://github.com/MarioFernandes73)
 * [Inês Gomes](https://github.com/inesgomes)
-* [Catarina Ramos](https://github.com/catramos96) (up201406219@fe.up.pt)
+* [Catarina Ramos](https://github.com/catramos96)
