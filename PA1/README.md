@@ -1,39 +1,8 @@
-# Relatório #
+#Practical Assignment 1
 
-https://docs.google.com/document/d/1kmi_Fj4mGASmqxhOTDoC3Hnxkl3D-4IZNzam-zsMRIo/edit
+This assignment had 2 essential objectives:
 
-# Estruturação #
+* To implement a data connection protocol
+* Test the protocol with a simple file transfer application
 
-o trabalho está divido em camadas:
-
-* **main** : faz inicializações e chama o application layer
-
-* **application Layer** : cenas com os pacotes de dados
-
-* **link Layer** : llopen, llwrite, llread, llclose (fazem a ligação com o application Layer)
-
-# TODO list #
-
-* temporizador para o receiver parar em caso de erro
-
-* geracao aleatoria de erros
-
-* recuperacao em casos de erros (?)
-
-// para depois
-
-* comentarios
-
-* documentacao
-
-* organizacao de codigo
-
-**Link Layer** 
-
-
-**application Layer**
-
-* a ordem da info do start package (tamanho, nome, data, permissoes) deve ser indiferente segundo o professor (o receiver deve ser capaz de ler a start package independentemente da ordem)
-
-
-# Duvidas : #
+The project was later tested with a stable, unstable and faulty connection, in order to see if the implemented protocol was resistent to it.
