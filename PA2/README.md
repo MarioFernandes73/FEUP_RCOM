@@ -1,9 +1,7 @@
-# RCOM-Trabalho2
+#Practical Assignment 2
 
-cliente ftp a funcionar
-preciso so de estruturar melhor o código
+This assignment was divided into 2 parts:
 
-exemplo de utilização:
-./download ftp://ftp.fe.up.pt/pub/Tcpgate/VPN/Linux/feup-vpn.tgz
+* Part 1 – Development of download application
 
-
+* Part 2 – Configuration and study of a computer network
